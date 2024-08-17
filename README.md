@@ -8,5 +8,10 @@ Room Management: Add new rooms, display room details, and update room informatio
 Customer Management: Add new customers, display customer details, update them, and check out (which deletes customer details).
 Employee and Manager Information: View detailed information about employees and managers.
 
+username: admin
+password: 12345
+
+NOTE: THIS PROJECT IS JUST FOR DEMO PURPOSES.
+
 
 
