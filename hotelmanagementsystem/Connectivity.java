@@ -11,7 +11,7 @@ public class Connectivity {
 		// TODO Auto-generated constructor stub
 		try {
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_mgmt","root","cbpp");
+		connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_mgmt","root","");
 		smtStatement=connection.createStatement();
 	}catch(Exception e) {
 		e.printStackTrace();
